@@ -189,10 +189,6 @@ export default {
     url: '*://*.freshdesk.com/*',
     name: 'Freshdesk'
   },
-  'ongemini.com': {
-    url: '*://*.ongemini.com/*',
-    name: 'Gemini'
-  },
   'getflow.com': {
     url: '*://*.getflow.com/*',
     name: 'Getflow'
@@ -377,10 +373,6 @@ export default {
   'ongemini.com': {
     url: '*://*.ongemini.com/*',
     name: 'Gemini'
-  },
-  'openproject.com': {
-    url: '*://*.openproject.com/*',
-    name: 'Openproject'
   },
   'onlyoffice.com': {
     url: '*://*.onlyoffice.com/*',
